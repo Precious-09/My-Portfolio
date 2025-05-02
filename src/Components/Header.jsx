@@ -17,7 +17,7 @@ export default function Header() {
               </Col>
               <Col className="text-center">
               <div style={{ display: 'flex', justifyContent: 'space-between', }}>
-                <LinkButton name="Download CV" color="transparent" type="submit" />
+                <LinkButton name="Download CV" color="transparent" href="/files/Adeogun.pdf" download/>
                 <LinkButton name="Let's Talk" href="#contact" />
               </div>
               </Col>

@@ -14,7 +14,7 @@ const PortfolioCard = ({ title, description, githubUrl, liveDemoUrl, image }) =>
           <LinkButton
             href={githubUrl}
             name="Github"
-            color="black"
+           color="black"
             target="_blank"
             rel="noopener noreferrer"
           />
