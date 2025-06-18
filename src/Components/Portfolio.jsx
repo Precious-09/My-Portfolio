@@ -5,6 +5,7 @@ import tictac from '../Images/React-Tic-Tac-Toe.png'
 import quiz from '../Images/ReactQuiz.png'
 import project from '../Images/React-Project-Manager.png'
 import signup from '../Images/Sign-Up.png'
+import horologica from '../Images/horologica.png'
 
 export default function Port() {
   
@@ -52,13 +53,13 @@ export default function Port() {
         liveDemoUrl="#"
         image={signup}
       />
-       {/* <PortfolioCard
-        title="Halo"
-        description="A book inventory web app that uses React.js, Flask micro framework, and Postgres as the database, deployed to Heroku."
-        githubUrl="https://github.com/craigryy/halo"
-        liveDemoUrl="https://halo98-77922c1f0f25.herokuapp.com/"
-        image={card}
-      /> */}
+       <PortfolioCard
+        title="E-Commerce"
+        description="An e-commerce web application built with Bootstrap and React.js."
+        githubUrl="https://github.com/Precious-09/Horologica/tree/main/src"
+        liveDemoUrl="https://horologica-eb7iq3jwg-adeogun-precious-projects.vercel.app/"
+        image={horologica}
+      />
       </div>
     </section>
     

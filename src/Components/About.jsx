@@ -33,7 +33,7 @@ export default function About() {
               I also thrive in collaborative environments, working closely with designers, back-end developers, and stakeholders to bring projects to life. With excellent communication skills and a proactive approach to problem-solving, I am adept at overcoming challenges and delivering solutions that meet both technical requirements and user needs.
             </p>
             <p style={para}>
-              I believe that that every challenge presents an opportunity to learn and grow. I am excited to showcase my work and share my journey with you. Thank you for visiting my portfolio, and I look forward to connecting with you soon!
+              I believe that every challenge presents an opportunity to learn and grow. I am excited to showcase my work and share my journey with you. Thank you for visiting my portfolio, and I look forward to connecting with you soon!
             </p>
             <LinkButton name="Let's Talk" href="#contact" />
           </Col>

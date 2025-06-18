@@ -16,7 +16,7 @@ export default function Header() {
                 <h5 className="animated">I'm a <span></span></h5>
               </Col>
               <Col className="text-center">
-              <div style={{ display: 'flex', justifyContent: 'space-between', }}>
+              <div style={{ display: 'flex', justifyContent: 'space-between' }}>
                 <LinkButton name="Download CV" color="transparent" href="/files/Adeogun.pdf" download/>
                 <LinkButton name="Let's Talk" href="#contact" />
               </div>
